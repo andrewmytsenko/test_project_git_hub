@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">test_project_git_hub</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">test project git hub</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
