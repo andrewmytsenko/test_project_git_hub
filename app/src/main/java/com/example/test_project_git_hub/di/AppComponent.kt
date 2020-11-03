@@ -2,6 +2,7 @@ package com.example.test_project_git_hub.di
 
 import android.app.Application
 import com.example.test_project_git_hub.TestTaskApplication
+import com.example.test_project_git_hub.di.module.ApiModule
 import com.example.test_project_git_hub.di.module.AppModule
 import com.example.test_project_git_hub.di.module.MainActivityModule
 import dagger.BindsInstance
@@ -14,6 +15,7 @@ import javax.inject.Singleton
     modules = [
         AndroidInjectionModule::class,
         AppModule::class,
+        ApiModule::class,
         MainActivityModule::class
     ]
 )
