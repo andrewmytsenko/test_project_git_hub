@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap_24dp">24dp</dimen>
+    <dimen name="ts_16sp">16sp</dimen>
+    <dimen name="gap_1dp">1dp</dimen>
+</resources>
